@@ -1,0 +1,62 @@
+body {
+    border: 1px solid rgb(0, 0, 0);  
+    width: 522px;
+    font-family: serif; 
+
+}
+header  {
+    background: #ffc107;
+    width: 522px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+
+   
+}
+h1 {
+    font-size: 18px;
+    text-align: center;
+    margin: 0px;
+}
+
+footer  {
+    background: #ffc107;     
+    width: 522px;
+    clear: left;
+    border-top: 1px solid rgb(0, 0, 0); 
+
+}
+
+h3 {
+    text-align: center;
+}
+h4 {
+    margin: 0px;
+    font-size: 14px;
+    text-align: center;
+     
+}
+div {
+    width: 147px;
+    
+}
+#pass {
+     
+    float: left;
+}
+#monopoly {
+    border-left: 1px solid rgb(0, 0, 0);  
+    border-right: 1px solid rgb(0, 0, 0); 
+    float: left;     
+    padding: 34px; 
+     
+}
+#now { 
+      
+    float: left;
+}
+
+p{
+    font-size: 14px;
+    text-align: justify;
+    padding: 12px;
+   
+}
